@@ -1,3 +1,5 @@
+# Wget data download from NASA
+
 1) Go to https://disc.gsfc.nasa.gov/ select the dataset and download a list of links
 
 IMPORTANT! Create an account in NASA
